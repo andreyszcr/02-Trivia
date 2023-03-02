@@ -1,0 +1,25 @@
+¿Como se llaman los planetas que orbitan una estrella diferente al sol?,planetas 55.O,planetas enanos,planetas fuera de orbita,exoplanetas,1,exoplanetas
+¿Cual es la galaxia mas grande conocida?,andromeda, via lactea,ic 101,renacuajo,3,ic 101
+¿Que tipo de animal es el ornitorrinco?,pez,ave,mamifero,reptil,3,mamifero
+¿Cual es la montaña terrestre mas alta del mundo?,himalaya,everest,chirripo,Mahalangur Himal,2,everest
+¿Quién mató a Hércules?,Deyanira,Kratos,Zeus,Hera,
+¿En qué año se creó el carro con gasolina?,1856,1885,1886,1890,
+Ganador del Premio Bota de Oro en el 2006,James Rodríguez,Harry Kane,Gary Lineker,Ninguno de los anteriores,
+¿A quién le dan el premio: Bota de oro?,Al mejor jugador,Al jugador que metió más goles en cada torneo,Al mejor portero,Al mejor jugador menor de 21 años,
+¿es uno de los instrumentos que funciona para tener bien sea articulo o empresa:?pasivos,capital,activos,cuentas por cobrar,17,activos
+¿nombre del libro que se usa para llevar las cuentas de la empresa?actas,notas,cuaderno,diario,18,diario
+¿Que personaje fue democratico?,Nelson Mandela,Gandhi,Osama bin laden,Enrique VII,19,Nelson Mandela
+¿de que pais salio el Regimen totalitario?,Alemania,Italia,Europa,Rusia,20,Italia
+¿Qué provoca el catabolismo muscular?,Falta de proteína,Hacer ejercicio con pesas,Tomar bebidas gaseosas,Comer carbohidratos,
+¿El consumo de cocaína puede provocar?,Inquietud,Cáncer de piel,Ceguera,Todas las anteriores,
+¿Brendan Eich fue el creador de?,javascript,C#,visual basic,python,1,javascript
+¿Rasmus Lerdorf fue el creador de?,php,javascript,C#,python,2,php
+¿Como se llaman las nubes de gas y polvo situadas entre las estrellas?,nebulosas,cumulos,piscetas,nonstes,1,nebulosas
+¿Que planeta del sistema solar absorve basura espacial?,jupiter,marte,venus,pluton,3,jupiter
+¿Cuantas personas han pisado la luna hasta el 2019?,5,8,12,15,3,12
+¿Cuantas faces tiene la luna?,2,5,4,6,1,4
+¿Raza única en los gatos?,Frisón,British Shorthair,Co Goat,Saanen,
+¿Quién fue el responsable de la creación de los derechos humanos? ,Ciro II,Heráclito,Sócrates,Aristóteles,2,Ciro II
+¿Quién fue el maestro de Platón?,Sócrates,René Descartes,Pitágoras,Rana Dascertas,3,Sócrates
+¿Cuál es la única banda de rock de la historia en la que cada miembro ha compuesto una canción que ha llegado a ser número uno como single?, Queen, Tarja, Nirvana,Rolling Stones,2, Queen
+Cantante de I Will Always Love You:,Whitney Houston,Adele,Maluma,Victor el nasi

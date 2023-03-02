@@ -1,0 +1,49 @@
+C:\Users\andre\source\repos\proyecto1\Trivia\bin\Debug\Trivia.dll
+C:\Users\andre\source\repos\proyecto1\Trivia\bin\Debug\Trivia.pdb
+C:\Users\andre\source\repos\proyecto1\Trivia\bin\Debug\Trivia.xml
+C:\Users\andre\source\repos\proyecto1\Trivia\obj\Debug\Trivia.vbprojAssemblyReference.cache
+C:\Users\andre\source\repos\proyecto1\Trivia\obj\Debug\Trivia.Resources.resources
+C:\Users\andre\source\repos\proyecto1\Trivia\obj\Debug\Trivia.vbproj.GenerateResource.cache
+C:\Users\andre\source\repos\proyecto1\Trivia\obj\Debug\Trivia.vbproj.CoreCompileInputs.cache
+C:\Users\andre\source\repos\proyecto1\Trivia\obj\Debug\Trivia.dll
+C:\Users\andre\source\repos\proyecto1\Trivia\obj\Debug\Trivia.xml
+C:\Users\andre\source\repos\proyecto1\Trivia\obj\Debug\Trivia.pdb
+C:\Users\sndrey\OneDrive\Escritorio\proyecto1\Trivia\bin\Debug\Trivia.dll
+C:\Users\sndrey\OneDrive\Escritorio\proyecto1\Trivia\bin\Debug\Trivia.pdb
+C:\Users\sndrey\OneDrive\Escritorio\proyecto1\Trivia\bin\Debug\Trivia.xml
+C:\Users\sndrey\OneDrive\Escritorio\proyecto1\Trivia\obj\Debug\Trivia.vbprojAssemblyReference.cache
+C:\Users\sndrey\OneDrive\Escritorio\proyecto1\Trivia\obj\Debug\Trivia.Resources.resources
+C:\Users\sndrey\OneDrive\Escritorio\proyecto1\Trivia\obj\Debug\Trivia.vbproj.GenerateResource.cache
+C:\Users\sndrey\OneDrive\Escritorio\proyecto1\Trivia\obj\Debug\Trivia.vbproj.CoreCompileInputs.cache
+C:\Users\sndrey\OneDrive\Escritorio\proyecto1\Trivia\obj\Debug\Trivia.dll
+C:\Users\sndrey\OneDrive\Escritorio\proyecto1\Trivia\obj\Debug\Trivia.xml
+C:\Users\sndrey\OneDrive\Escritorio\proyecto1\Trivia\obj\Debug\Trivia.pdb
+C:\Users\admin\Desktop\Proyectodetrivia\Finalizado\proyecto1\Trivia\bin\Debug\Trivia.dll
+C:\Users\admin\Desktop\Proyectodetrivia\Finalizado\proyecto1\Trivia\bin\Debug\Trivia.pdb
+C:\Users\admin\Desktop\Proyectodetrivia\Finalizado\proyecto1\Trivia\bin\Debug\Trivia.xml
+C:\Users\admin\Desktop\Proyectodetrivia\Finalizado\proyecto1\Trivia\obj\Debug\Trivia.vbprojAssemblyReference.cache
+C:\Users\admin\Desktop\Proyectodetrivia\Finalizado\proyecto1\Trivia\obj\Debug\Trivia.Resources.resources
+C:\Users\admin\Desktop\Proyectodetrivia\Finalizado\proyecto1\Trivia\obj\Debug\Trivia.vbproj.GenerateResource.cache
+C:\Users\admin\Desktop\Proyectodetrivia\Finalizado\proyecto1\Trivia\obj\Debug\Trivia.vbproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\Proyectodetrivia\Finalizado\proyecto1\Trivia\obj\Debug\Trivia.dll
+C:\Users\admin\Desktop\Proyectodetrivia\Finalizado\proyecto1\Trivia\obj\Debug\Trivia.xml
+C:\Users\admin\Desktop\Proyectodetrivia\Finalizado\proyecto1\Trivia\obj\Debug\Trivia.pdb
+C:\Users\andre\Documents\Programacion II\proyecto1\Trivia\bin\Debug\Trivia.dll
+C:\Users\andre\Documents\Programacion II\proyecto1\Trivia\bin\Debug\Trivia.pdb
+C:\Users\andre\Documents\Programacion II\proyecto1\Trivia\bin\Debug\Trivia.xml
+C:\Users\andre\Documents\Programacion II\proyecto1\Trivia\obj\Debug\Trivia.vbprojAssemblyReference.cache
+C:\Users\andre\Documents\Programacion II\proyecto1\Trivia\obj\Debug\Trivia.Resources.resources
+C:\Users\andre\Documents\Programacion II\proyecto1\Trivia\obj\Debug\Trivia.vbproj.GenerateResource.cache
+C:\Users\andre\Documents\Programacion II\proyecto1\Trivia\obj\Debug\Trivia.dll
+C:\Users\andre\Documents\Programacion II\proyecto1\Trivia\obj\Debug\Trivia.xml
+C:\Users\andre\Documents\Programacion II\proyecto1\Trivia\obj\Debug\Trivia.pdb
+C:\Users\andre\Documents\Archivos de llave maya\documentos\Programacion II\proyecto1\Trivia\bin\Debug\Trivia.dll
+C:\Users\andre\Documents\Archivos de llave maya\documentos\Programacion II\proyecto1\Trivia\bin\Debug\Trivia.pdb
+C:\Users\andre\Documents\Archivos de llave maya\documentos\Programacion II\proyecto1\Trivia\bin\Debug\Trivia.xml
+C:\Users\andre\Documents\Archivos de llave maya\documentos\Programacion II\proyecto1\Trivia\obj\Debug\Trivia.vbprojAssemblyReference.cache
+C:\Users\andre\Documents\Archivos de llave maya\documentos\Programacion II\proyecto1\Trivia\obj\Debug\Trivia.Resources.resources
+C:\Users\andre\Documents\Archivos de llave maya\documentos\Programacion II\proyecto1\Trivia\obj\Debug\Trivia.vbproj.GenerateResource.cache
+C:\Users\andre\Documents\Archivos de llave maya\documentos\Programacion II\proyecto1\Trivia\obj\Debug\Trivia.vbproj.CoreCompileInputs.cache
+C:\Users\andre\Documents\Archivos de llave maya\documentos\Programacion II\proyecto1\Trivia\obj\Debug\Trivia.dll
+C:\Users\andre\Documents\Archivos de llave maya\documentos\Programacion II\proyecto1\Trivia\obj\Debug\Trivia.xml
+C:\Users\andre\Documents\Archivos de llave maya\documentos\Programacion II\proyecto1\Trivia\obj\Debug\Trivia.pdb

@@ -1,0 +1,25 @@
+¿Como se llamo el primer malware?,creeper,morris,zippar,norster,2,creeper
+¿Por quien fue creado el primer virus tecnologico?, Bill Gates, Steve Jobs,Rober Morris, Jonson Norster,2,Rober Morris
+¿Que edad tiene la tierra en millones de años?,5623,3455,4470,10200,3,4470
+¿Quien fue el primero en usar un telescopio para ver las estrellas?,Galileo Galilei,Aristarco de Samos,Johannes KeplerJohannes Hevelius,3,Galileo Galilei
+¿Cual es el planeta mas cercano al sol?,venus,saturno,mercurio,jupiter,1,mercurio
+¿Cual es el primer elemento de la tabla periodica?,helio,hidrogeno,sodio,oro,1,hidrogeno
+¿Cúal es el 6 planeta del Sistema Solar?,Mercurio,Jupiter,Saturno,Tierra,
+¿Creador de la bombilla?,Thomas Edison,John Rockefeller,Albert Einstein,Nicolas Tesla,
+¿Dónde se llevó a cabo el mundial de fútbol de 1994?,Francia,Alemania,Estados Unidos,Argentina,
+¿Cuál de las siguientes boxeadoras es Costarricense?,Hanna Gabriel,Esmeralda Moreno,Mariana Juárez,Amanda Serrano,
+¿cuantos captales hay?, 1,5,8,10,7,5
+¿nombre de una delas capitales necesarios para llevar en la economia?, capital financiero, capital comunitario, capital economico, cuentas por cobrar,8,capital financiero
+¿Quién es el presidente de España?,Isabel II,Mariano Rajoy,Pedro infante,Cristobal Colon,7,Mario rajoy
+¿Cómo se llama el procedimiento de subir la bandera?, Izar,levantar, alzar, colocar,8,Izar
+¿Cuál es una de las funciones que cumple la creatina en el organismo?,Ayuda a que circule mejor la sangre,Cura la gripe,Evita que se prodzcan daños hepáticos,Mejora el control de glucosa,
+¿Cuál es el rango de IMC recomendable para estar saludable?,18.5 o inferior,18.5 a 24.9,25.0 a 29.9,30.0 o superior,
+¿Quien creo eBay?,Jobs Junior,Rober Morris, Jonson Norster,Pierre Omidyar,1,Pierre Omidyar
+¿En que año sale Internet explorer?,1998,1995,1993,1994,3,1995
+¿Se encarga del nacimiento y muerte del universo?,astronomia,cosmologia,mecánica celeste,Cefeidas,3,cosmologia
+¿Quien descubrió la expansión del universo?,Isaac Newton,Ejnar Hertzprung,Carl Sagan,Edwin Hubble,1,Edwin Hubble
+¿Que planeta del sistema solar es el mas pequeño?,marte,mercurio,jupiter,saturno,3,mercurio
+¿De qué estaba fabricado originalmente el maquillaje blanco de las geishas?,harina de arroz con un polvo a base de plomo,Plomo mezclado con polvo de flores de loto,Flores de loto con polvo de plomo y harina de arroz,Plomo mezclado con pescado,2,harina de arroz con un polvo a base de plomo
+¿Para qué fue creado el Plan Marshall en 1947?,Comercio,Conquista,Reconstrucción,Colonizacion,2,Reconstrucción
+¿A cuántas negras equivale una redonda?,2,4,6,8,2,4
+¿En qué país nació Johan Sebastian Bach?, Alemania, Austria, Polonia, República Checa, 3,Alemania

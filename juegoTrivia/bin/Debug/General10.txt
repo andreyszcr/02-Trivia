@@ -1,0 +1,25 @@
+¿Filipinas de que regimen es ?,Totalitario,Monarquico,Islamico,Democratico,23,Islamico
+¿conjunto de instituciones y leyes que permiten la organización del Estado y el ejercicio del poder?,Regimen Comunitario,Regimen Politico,Regimen Democratico,Regimen Totaliario,24,Regimen Politico 
+¿Pais que es del regimen Politico?,Turquia,Arabia,Rusia,Costa Rica,25,Costa Rica
+¿Qué produce la viruela?,Una bacteria,Un parásito,Un virus,Un hongo,
+¿Cuál de las siguientes enfermedades es producida por un Virus?,VIH,Tuberculosis,Cólera,Todas las anteriores,
+¿Quien inventó el protocolo TCP / IP en la década de 1970 ?,Leonard Kleinrock,Vinton Cerf,Ray Tomlinson, Lawrence G. Roberts,2,Vinton Cerf
+¿En que año circulo en primer carro en Costa Rica?,1912,1935,1895,1945,1,1912
+¿Que se genera cuando una estrella agota su combustible nuclear?,enana blanca,agujero negro,nebulosa,renacuajo,3,enana blanca
+¿Cual es la estrella mas brillante de la constelacion de escorpio?,sirio,polux,antares,rigel,2,antares
+¿Cual es el mamifero mas pequeño del mundo?,ratones,murcielagos,musaraña,moscos,1,musaraña
+¿Quien es le padre de la quimica moderna?,Albert Einstein,Galileo Galilei,Stephen Hawking,Antoine Lavoisier,3,antoine lavoisier
+¿De estudio que se encarga la botanica?,vertebrados,clima,plantas,invertebrados,3,plantas
+¿Cuál es el animal más grande del mundo?,Jirafa,Ballena Azul,Elefante,Tiburón Ballena,
+¿Año en el que se creó la primera red informática?,1959,1969,1979,1989,
+¿En qué país se celebró el Campeonato mundial de atletismo 2015?,Argentina,Brasil,China,Japón,
+El estadio más grande del mundo se ubica en:,España,Rusia,Estados Unidos,Corea del Norte,
+El 28 de Junio de 1997; Mike Tyson le muerde la oreja a:,Muhammad Ali,Sandy Saddler,Carlos Zárate,Evander Holyfield
+¿tipo de activo  corriente?,tesoreria,neto,inveriones,prestamos,23,tesoreria
+¿representacion completa de los elementos patrimoniales en un momento determinado?,balance,equivalencia,neto,contabilidad,24,balance
+¿tipo de activo no corriente?,empresa,activos,prestamo,inversion financiera,25,prestamo
+De las siguientes enfermedades ¿Cuál es causada por la heroína?,Venas colapsadas,Artrítis,Las dos anteriores,Ninguna de las anteriores,
+¿Quién pintó 'La última cena'?,Miguel Ángel,Sandro Botticelli,Leonardo Da Vinci,Numa Pompilio,
+Según la historia, ¿qué animal amamantó a Rómulo y a Remo?,Un aguila,Una loba,Una oveja,Una vaca,
+Aplicación para oir música,YouTube,Spotify,Apple Music,Todas las anteriores,
+¿Quién canta everything i do?,María Gabriela de Faria,Brian adams, Chad kroeger,Bon Jovi

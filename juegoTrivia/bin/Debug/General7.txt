@@ -1,0 +1,25 @@
+¿Cual pais posee un Partido Federal?,Costa Rica,San Jose,Argentina,Todos,16,Argentina
+¿Qué causa la bacteria Treponema pallidum?,Sífilis,Hepatitis,Herpes,VIH,
+¿Qué es la Tricomoniasis?,Una enfermedad neurológica,Una enfermedad de transmisión sexual,Una enfermedad de la sangre,Una enfermedad gastrointestinal,
+¿Como se llama el telescopio espacial de 1990 ?, hubble,larry,space, omidyar,1,hubble
+¿Quien creo el @?,Jonson Norster,Rober Morris,Ray Tomiloson,Paul Buchheit,2,Ray Tomiloson
+¿Cual es el elemento menos denso de la tabla periodica?,hidrogeno,helio,sodio,manganeso,1,hidrogeno
+¿Quien es el padre de la ciencia moderna?,Albert Einstein,Galileo Galilei,Stephen Hawking,Dimitri,2,Galileo Galilei
+¿En qué fecha se celebra el día del café?,1 de octubre,31 de octubre,15 de octubre,17 de octubre,
+¿Qué color se obtiene al mezclar pintura Amarilla con Azul?,Café,Morado,Verde,Anaranjado,
+¿Quién recibió el balón de oro en el año 2014?,Cristiano Ronaldo,Messi,Neymar,Ronaldo,
+Ganador del Guante de oro en el 2010,Manuel Neuer,Oliver Kahn,Iker Casillas,Fabien Barthez,
+¿Quién recibió el balón de oro en el año 2014?,Cristiano Ronaldo,Messi,Neymar,Ronaldo,
+Ganador del Guante de oro en el 2010,Manuel Neuer,Oliver Kahn,Iker Casillas,Fabien Barthez,
+¿la cuenta en bonos son?,activos corrientes, activos diferidos,pasivos corientes,patrimonio,15,pasivos corrientes
+¿el estado de situacion financiera esta dividido en?activos-pasivos-patrimonio,activos-cxc-capital,activos recurrentes-pasivos-activos-,contabilidad,activos,encabezado,16,activos-pasivos-patrimonio
+¿Quien es Gandhi?,Politico,Abogado,Poeta,arquitecto,17,Politico
+¿Quien fue Nelson Mandela?,reolucionario,filantropo,politico,todos18,todos
+¿Por qué es importante comer verduras?,Por que contienen pocas calorías,Por que tienen potasio y sodio, Por que algunas contienen vitamina C,Todas las anteriores,
+¿Cuál de los siguientes efectos es debido a la hipertensión arterial?,Daño hepático,Daño renal,Hipertrófia muscular,Retraso,
+¿Año en que lanza IBM su primer computadora?,1976,1981,1998,2002,3,1981
+¿Guido Van Rossum fue el creador de?,C#,visual basic,python,rubby,2,python
+¿Cuál de estos instrumentos no es de viento-madera?, Saxofón, Flauta, Fagot, Trompeta, 3,Trompeta. 
+¿Cuántas cuerdas tiene un violín?, 5,6,3,4,1,4
+¿De estos políticos, cuál fue el más conocido en la  Revolución Francesa?,Voltaire,Dantón,Monstequieu,Youtan,2,Dantón
+¿Quién fue el primer rey de Roma?,Rómulo,Julio Cesar,Servio Tulio,Numa Pompilio,2,Rómulo

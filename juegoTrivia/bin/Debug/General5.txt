@@ -1,0 +1,25 @@
+¿Como se llama el centro de un atomo?,nucleo,electron,proton,neutron,1,nucleo
+¿Quién pintó: El grito?,Leonardo Da Vinci,Van Gogh,Edvard Munch,Carl Manfred,
+¿En qué país se ubica bosque del Amazonas?,Australia,Rusia,Costa Rica,Brasil,
+Técnica que se puede realizar en Esgrima:,Balestra,Sol Cruel,Extracción,Jaque a la descubierta,
+¿Qué medalla obtiene Nery Brenes en los juegos de Barranquilla 2018?,Oro,Plata,Bronce,Ninguna,
+¿que signfica haber?,pagar,abonar,cargar,alquilar,9,abonar
+¿que significa debe?,cobrar,pagar,rentar,cargar,10,cargar
+¿Dónde está la Casa Blanca?,New York,Washington D.C.,Phillipinas,Canada,Florida,9,Washington D.C
+¿Qué político cubano fue presidente tras su victoria en la revolución contra el régimen dictatorial de Fulgencio Batista?,Chapo Guzman,Fidel Castro,Adolfo hitler,Benito musolini,10,Fidel Castro
+¿Cuál es la fórmula para calcular el IMC?,Peso en gramos/estatura en centimetros,Peso en Kg/estatura en centimetros,Peso en Kg/estatura en pulgadas x estatura en pulgadas,Peso en Kg/estatura en pulgadas,
+¿Cuántos latidos por minuto tiene un adulto en promedio?,75-115 ppm,80-120 ppm,60-100 ppm,100-115 ppm,
+¿Quien creo Gmail?,Paul Buchheit,Jimmy Wales,Pierre Omidyar,Rober Morris,2,Paul Buchheit
+¿Como se llamó el primer video de Youtube?,¿Que es Youtube?,yo en el zoo,niños al ataque,youtube game,3,yo en el zoo
+¿Como se llama nuestra galaxia?,via lactea,torbellino,renacuajo,ojo negro,3,via lactea
+¿Cual es el mejor lugar para estudiar la astronomia?,estados unidos,japon, atacama,berlin,2,atacama
+¿Nombre de la sustancia que le da pigmentacion a la piel?,melanina,potasio,magnecio,calcio,2,melanina
+¿Nombre de un metal en el nucleo de la tierra?,oro,calcio,niquel,acero,1,niquel
+¿En qué continente se ubica Filipinas?,América,Oceanía,Europa,Asia,
+¿Cuál de los siguientes libros fue escrito por Albert Einstein?,The World as I see It,A Brief Story of Time: From the Big Bang to Black Holes,Kissinger,The Wise Men,
+El hombre más fuerte del mundo es:,Arnold Schwarzenegger,Hafþór Júlíus Björnsson,Rich Piana,Masashi Suzuki,
+¿Qué pasa si una mujer se inyecta esteroides?,Le crece bello facial,Aumenta su masa muscular,Obtiene una gran cantidad de testosterona,Todas las anteriores,
+¿En qué año viajó el primer hombre a la Luna?,1969,1968,1970,1972,3,1969,
+¿Cuál era el nombre antiguo de Grecia?,Tesalia,Creta,Hélade,Graia,2,Hélade,
+Tres de estos compositores nacieron el mismo año: 1685 ¿Cuál no?, Domenico Scarlatti, Johann Sebastian Bach, Georg Friedrich Händel, Johann Pachelbel, 2,Johann Pachelbel,
+¿La 'oda a la alegría' forma parte de que sinfonía de Beethoven?, Sinfonía n.º 5, Sinfonía n.º 6, Sinfonía n.º 7,Sinfonía n.º 9, 3, Sinfonía n.º 9

@@ -1,0 +1,175 @@
+C:\Users\andre\source\repos\proyecto1\juegoTrivia\bin\Debug\juegoTrivia.exe.config
+C:\Users\andre\source\repos\proyecto1\juegoTrivia\bin\Debug\juegoTrivia.exe
+C:\Users\andre\source\repos\proyecto1\juegoTrivia\bin\Debug\juegoTrivia.pdb
+C:\Users\andre\source\repos\proyecto1\juegoTrivia\bin\Debug\juegoTrivia.xml
+C:\Users\andre\source\repos\proyecto1\juegoTrivia\obj\Debug\juegoTrivia.vbprojAssemblyReference.cache
+C:\Users\andre\source\repos\proyecto1\juegoTrivia\obj\Debug\juegoTrivia.frmMenuPrincipal.resources
+C:\Users\andre\source\repos\proyecto1\juegoTrivia\obj\Debug\juegoTrivia.frmAcercaDe.resources
+C:\Users\andre\source\repos\proyecto1\juegoTrivia\obj\Debug\juegoTrivia.frmJuego.resources
+C:\Users\andre\source\repos\proyecto1\juegoTrivia\obj\Debug\juegoTrivia.Resources.resources
+C:\Users\andre\source\repos\proyecto1\juegoTrivia\obj\Debug\juegoTrivia.vbproj.GenerateResource.cache
+C:\Users\andre\source\repos\proyecto1\juegoTrivia\obj\Debug\juegoTrivia.vbproj.CoreCompileInputs.cache
+C:\Users\andre\source\repos\proyecto1\juegoTrivia\obj\Debug\juegoTrivia.exe
+C:\Users\andre\source\repos\proyecto1\juegoTrivia\obj\Debug\juegoTrivia.xml
+C:\Users\andre\source\repos\proyecto1\juegoTrivia\obj\Debug\juegoTrivia.pdb
+C:\Users\andre\source\repos\proyecto1\juegoTrivia\bin\Debug\Trivia.dll
+C:\Users\andre\source\repos\proyecto1\juegoTrivia\bin\Debug\Trivia.pdb
+C:\Users\andre\source\repos\proyecto1\juegoTrivia\bin\Debug\Trivia.xml
+C:\Users\andre\source\repos\proyecto1\juegoTrivia\obj\Debug\juegoTrivia.vbproj.CopyComplete
+C:\Users\andre\source\repos\proyecto1\juegoTrivia\obj\Debug\juegoTrivia.frmControl.resources
+C:\Users\andre\source\repos\proyecto1\juegoTrivia\obj\Debug\juegoTrivia.frmPregunta.resources
+C:\Users\andre\source\repos\proyecto1\juegoTrivia\obj\Debug\juegoTrivia.frmpregJ2.resources
+C:\Users\admin\Desktop\Proyectodeandrey\proyecto1\juegoTrivia\bin\Debug\juegoTrivia.exe.config
+C:\Users\admin\Desktop\Proyectodeandrey\proyecto1\juegoTrivia\bin\Debug\juegoTrivia.exe
+C:\Users\admin\Desktop\Proyectodeandrey\proyecto1\juegoTrivia\bin\Debug\juegoTrivia.pdb
+C:\Users\admin\Desktop\Proyectodeandrey\proyecto1\juegoTrivia\bin\Debug\juegoTrivia.xml
+C:\Users\admin\Desktop\Proyectodeandrey\proyecto1\juegoTrivia\bin\Debug\Trivia.dll
+C:\Users\admin\Desktop\Proyectodeandrey\proyecto1\juegoTrivia\bin\Debug\Trivia.pdb
+C:\Users\admin\Desktop\Proyectodeandrey\proyecto1\juegoTrivia\bin\Debug\Trivia.xml
+C:\Users\admin\Desktop\Proyectodeandrey\proyecto1\juegoTrivia\obj\Debug\juegoTrivia.vbprojAssemblyReference.cache
+C:\Users\admin\Desktop\Proyectodeandrey\proyecto1\juegoTrivia\obj\Debug\juegoTrivia.frmAcercaDe.resources
+C:\Users\admin\Desktop\Proyectodeandrey\proyecto1\juegoTrivia\obj\Debug\juegoTrivia.frmControl.resources
+C:\Users\admin\Desktop\Proyectodeandrey\proyecto1\juegoTrivia\obj\Debug\juegoTrivia.frmMenuPrincipal.resources
+C:\Users\admin\Desktop\Proyectodeandrey\proyecto1\juegoTrivia\obj\Debug\juegoTrivia.frmJuego.resources
+C:\Users\admin\Desktop\Proyectodeandrey\proyecto1\juegoTrivia\obj\Debug\juegoTrivia.frmpregJ2.resources
+C:\Users\admin\Desktop\Proyectodeandrey\proyecto1\juegoTrivia\obj\Debug\juegoTrivia.frmPregunta.resources
+C:\Users\admin\Desktop\Proyectodeandrey\proyecto1\juegoTrivia\obj\Debug\juegoTrivia.Resources.resources
+C:\Users\admin\Desktop\Proyectodeandrey\proyecto1\juegoTrivia\obj\Debug\juegoTrivia.vbproj.GenerateResource.cache
+C:\Users\admin\Desktop\Proyectodeandrey\proyecto1\juegoTrivia\obj\Debug\juegoTrivia.vbproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\Proyectodeandrey\proyecto1\juegoTrivia\obj\Debug\juegoTrivia.vbproj.CopyComplete
+C:\Users\admin\Desktop\Proyectodeandrey\proyecto1\juegoTrivia\obj\Debug\juegoTrivia.exe
+C:\Users\admin\Desktop\Proyectodeandrey\proyecto1\juegoTrivia\obj\Debug\juegoTrivia.xml
+C:\Users\admin\Desktop\Proyectodeandrey\proyecto1\juegoTrivia\obj\Debug\juegoTrivia.pdb
+C:\Users\sndrey\OneDrive\Escritorio\proyecto1\juegoTrivia\bin\Debug\juegoTrivia.exe.config
+C:\Users\sndrey\OneDrive\Escritorio\proyecto1\juegoTrivia\bin\Debug\juegoTrivia.exe
+C:\Users\sndrey\OneDrive\Escritorio\proyecto1\juegoTrivia\bin\Debug\juegoTrivia.pdb
+C:\Users\sndrey\OneDrive\Escritorio\proyecto1\juegoTrivia\bin\Debug\juegoTrivia.xml
+C:\Users\sndrey\OneDrive\Escritorio\proyecto1\juegoTrivia\bin\Debug\Trivia.dll
+C:\Users\sndrey\OneDrive\Escritorio\proyecto1\juegoTrivia\bin\Debug\Trivia.pdb
+C:\Users\sndrey\OneDrive\Escritorio\proyecto1\juegoTrivia\bin\Debug\Trivia.xml
+C:\Users\sndrey\OneDrive\Escritorio\proyecto1\juegoTrivia\obj\Debug\juegoTrivia.vbprojAssemblyReference.cache
+C:\Users\sndrey\OneDrive\Escritorio\proyecto1\juegoTrivia\obj\Debug\juegoTrivia.frmAcercaDe.resources
+C:\Users\sndrey\OneDrive\Escritorio\proyecto1\juegoTrivia\obj\Debug\juegoTrivia.frmControl.resources
+C:\Users\sndrey\OneDrive\Escritorio\proyecto1\juegoTrivia\obj\Debug\juegoTrivia.frmMenuPrincipal.resources
+C:\Users\sndrey\OneDrive\Escritorio\proyecto1\juegoTrivia\obj\Debug\juegoTrivia.frmJuego.resources
+C:\Users\sndrey\OneDrive\Escritorio\proyecto1\juegoTrivia\obj\Debug\juegoTrivia.frmpregJ2.resources
+C:\Users\sndrey\OneDrive\Escritorio\proyecto1\juegoTrivia\obj\Debug\juegoTrivia.frmPregunta.resources
+C:\Users\sndrey\OneDrive\Escritorio\proyecto1\juegoTrivia\obj\Debug\juegoTrivia.Resources.resources
+C:\Users\sndrey\OneDrive\Escritorio\proyecto1\juegoTrivia\obj\Debug\juegoTrivia.vbproj.GenerateResource.cache
+C:\Users\sndrey\OneDrive\Escritorio\proyecto1\juegoTrivia\obj\Debug\juegoTrivia.vbproj.CoreCompileInputs.cache
+C:\Users\sndrey\OneDrive\Escritorio\proyecto1\juegoTrivia\obj\Debug\juegoTrivia.vbproj.CopyComplete
+C:\Users\sndrey\OneDrive\Escritorio\proyecto1\juegoTrivia\obj\Debug\juegoTrivia.exe
+C:\Users\sndrey\OneDrive\Escritorio\proyecto1\juegoTrivia\obj\Debug\juegoTrivia.xml
+C:\Users\sndrey\OneDrive\Escritorio\proyecto1\juegoTrivia\obj\Debug\juegoTrivia.pdb
+C:\Users\sndrey\OneDrive\Escritorio\proyecto1\juegoTrivia\obj\Debug\juegoTrivia.frmInstrucciones.resources
+F:\proyecto1\juegoTrivia\obj\Debug\juegoTrivia.vbprojAssemblyReference.cache
+F:\proyecto1\juegoTrivia\obj\Debug\juegoTrivia.frmAcercaDe.resources
+F:\proyecto1\juegoTrivia\obj\Debug\juegoTrivia.frmControl.resources
+F:\proyecto1\juegoTrivia\obj\Debug\juegoTrivia.frmInstrucciones.resources
+F:\proyecto1\juegoTrivia\obj\Debug\juegoTrivia.frmMenuPrincipal.resources
+F:\proyecto1\juegoTrivia\obj\Debug\juegoTrivia.frmJuego.resources
+F:\proyecto1\juegoTrivia\obj\Debug\juegoTrivia.frmpregJ2.resources
+F:\proyecto1\juegoTrivia\obj\Debug\juegoTrivia.frmPregunta.resources
+F:\proyecto1\juegoTrivia\obj\Debug\juegoTrivia.Resources.resources
+F:\proyecto1\juegoTrivia\obj\Debug\juegoTrivia.vbproj.GenerateResource.cache
+F:\proyecto1\juegoTrivia\obj\Debug\juegoTrivia.vbproj.CoreCompileInputs.cache
+F:\proyecto1\juegoTrivia\obj\Debug\juegoTrivia.exe
+F:\proyecto1\juegoTrivia\obj\Debug\juegoTrivia.xml
+F:\proyecto1\juegoTrivia\obj\Debug\juegoTrivia.pdb
+F:\proyecto1\juegoTrivia\bin\Debug\juegoTrivia.exe.config
+F:\proyecto1\juegoTrivia\bin\Debug\juegoTrivia.exe
+F:\proyecto1\juegoTrivia\bin\Debug\juegoTrivia.pdb
+F:\proyecto1\juegoTrivia\bin\Debug\juegoTrivia.xml
+F:\proyecto1\juegoTrivia\bin\Debug\Trivia.dll
+F:\proyecto1\juegoTrivia\bin\Debug\Trivia.pdb
+F:\proyecto1\juegoTrivia\bin\Debug\Trivia.xml
+F:\proyecto1\juegoTrivia\obj\Debug\juegoTrivia.vbproj.CopyComplete
+C:\Users\admin\Desktop\Proyectodetrivia\Finalizado\proyecto1\juegoTrivia\bin\Debug\juegoTrivia.exe.config
+C:\Users\admin\Desktop\Proyectodetrivia\Finalizado\proyecto1\juegoTrivia\bin\Debug\juegoTrivia.exe
+C:\Users\admin\Desktop\Proyectodetrivia\Finalizado\proyecto1\juegoTrivia\bin\Debug\juegoTrivia.pdb
+C:\Users\admin\Desktop\Proyectodetrivia\Finalizado\proyecto1\juegoTrivia\bin\Debug\juegoTrivia.xml
+C:\Users\admin\Desktop\Proyectodetrivia\Finalizado\proyecto1\juegoTrivia\bin\Debug\Trivia.dll
+C:\Users\admin\Desktop\Proyectodetrivia\Finalizado\proyecto1\juegoTrivia\bin\Debug\Trivia.pdb
+C:\Users\admin\Desktop\Proyectodetrivia\Finalizado\proyecto1\juegoTrivia\bin\Debug\Trivia.xml
+C:\Users\admin\Desktop\Proyectodetrivia\Finalizado\proyecto1\juegoTrivia\obj\Debug\juegoTrivia.vbprojAssemblyReference.cache
+C:\Users\admin\Desktop\Proyectodetrivia\Finalizado\proyecto1\juegoTrivia\obj\Debug\juegoTrivia.frmAcercaDe.resources
+C:\Users\admin\Desktop\Proyectodetrivia\Finalizado\proyecto1\juegoTrivia\obj\Debug\juegoTrivia.frmControl.resources
+C:\Users\admin\Desktop\Proyectodetrivia\Finalizado\proyecto1\juegoTrivia\obj\Debug\juegoTrivia.frmInstrucciones.resources
+C:\Users\admin\Desktop\Proyectodetrivia\Finalizado\proyecto1\juegoTrivia\obj\Debug\juegoTrivia.frmMenuPrincipal.resources
+C:\Users\admin\Desktop\Proyectodetrivia\Finalizado\proyecto1\juegoTrivia\obj\Debug\juegoTrivia.frmJuego.resources
+C:\Users\admin\Desktop\Proyectodetrivia\Finalizado\proyecto1\juegoTrivia\obj\Debug\juegoTrivia.frmpregJ2.resources
+C:\Users\admin\Desktop\Proyectodetrivia\Finalizado\proyecto1\juegoTrivia\obj\Debug\juegoTrivia.frmPregunta.resources
+C:\Users\admin\Desktop\Proyectodetrivia\Finalizado\proyecto1\juegoTrivia\obj\Debug\juegoTrivia.Resources.resources
+C:\Users\admin\Desktop\Proyectodetrivia\Finalizado\proyecto1\juegoTrivia\obj\Debug\juegoTrivia.vbproj.GenerateResource.cache
+C:\Users\admin\Desktop\Proyectodetrivia\Finalizado\proyecto1\juegoTrivia\obj\Debug\juegoTrivia.vbproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\Proyectodetrivia\Finalizado\proyecto1\juegoTrivia\obj\Debug\juegoTrivia.vbproj.CopyComplete
+C:\Users\admin\Desktop\Proyectodetrivia\Finalizado\proyecto1\juegoTrivia\obj\Debug\juegoTrivia.exe
+C:\Users\admin\Desktop\Proyectodetrivia\Finalizado\proyecto1\juegoTrivia\obj\Debug\juegoTrivia.xml
+C:\Users\admin\Desktop\Proyectodetrivia\Finalizado\proyecto1\juegoTrivia\obj\Debug\juegoTrivia.pdb
+G:\Finalizado\proyecto1\juegoTrivia\bin\Debug\juegoTrivia.exe.config
+G:\Finalizado\proyecto1\juegoTrivia\obj\Debug\juegoTrivia.exe
+G:\Finalizado\proyecto1\juegoTrivia\obj\Debug\juegoTrivia.xml
+G:\Finalizado\proyecto1\juegoTrivia\obj\Debug\juegoTrivia.pdb
+G:\Finalizado\proyecto1\juegoTrivia\bin\Debug\juegoTrivia.exe
+G:\Finalizado\proyecto1\juegoTrivia\bin\Debug\juegoTrivia.pdb
+G:\Finalizado\proyecto1\juegoTrivia\bin\Debug\juegoTrivia.xml
+G:\Finalizado\proyecto1\juegoTrivia\bin\Debug\Trivia.dll
+G:\Finalizado\proyecto1\juegoTrivia\bin\Debug\Trivia.pdb
+G:\Finalizado\proyecto1\juegoTrivia\bin\Debug\Trivia.xml
+G:\Finalizado\proyecto1\juegoTrivia\obj\Debug\juegoTrivia.vbprojResolveAssemblyReference.cache
+G:\Finalizado\proyecto1\juegoTrivia\obj\Debug\juegoTrivia.frmAcercaDe.resources
+G:\Finalizado\proyecto1\juegoTrivia\obj\Debug\juegoTrivia.frmControl.resources
+G:\Finalizado\proyecto1\juegoTrivia\obj\Debug\juegoTrivia.frmInstrucciones.resources
+G:\Finalizado\proyecto1\juegoTrivia\obj\Debug\juegoTrivia.frmMenuPrincipal.resources
+G:\Finalizado\proyecto1\juegoTrivia\obj\Debug\juegoTrivia.frmJuego.resources
+G:\Finalizado\proyecto1\juegoTrivia\obj\Debug\juegoTrivia.frmpregJ2.resources
+G:\Finalizado\proyecto1\juegoTrivia\obj\Debug\juegoTrivia.frmPregunta.resources
+G:\Finalizado\proyecto1\juegoTrivia\obj\Debug\juegoTrivia.Resources.resources
+G:\Finalizado\proyecto1\juegoTrivia\obj\Debug\juegoTrivia.vbproj.GenerateResource.Cache
+H:\Finalizado\proyecto1\juegoTrivia\bin\Debug\juegoTrivia.exe.config
+H:\Finalizado\proyecto1\juegoTrivia\obj\Debug\juegoTrivia.exe
+H:\Finalizado\proyecto1\juegoTrivia\obj\Debug\juegoTrivia.xml
+H:\Finalizado\proyecto1\juegoTrivia\obj\Debug\juegoTrivia.pdb
+C:\Users\andre\Documents\Programacion II\proyecto1\juegoTrivia\bin\Debug\juegoTrivia.exe.config
+C:\Users\andre\Documents\Programacion II\proyecto1\juegoTrivia\bin\Debug\juegoTrivia.exe
+C:\Users\andre\Documents\Programacion II\proyecto1\juegoTrivia\bin\Debug\juegoTrivia.pdb
+C:\Users\andre\Documents\Programacion II\proyecto1\juegoTrivia\bin\Debug\juegoTrivia.xml
+C:\Users\andre\Documents\Programacion II\proyecto1\juegoTrivia\bin\Debug\Trivia.dll
+C:\Users\andre\Documents\Programacion II\proyecto1\juegoTrivia\bin\Debug\Trivia.pdb
+C:\Users\andre\Documents\Programacion II\proyecto1\juegoTrivia\bin\Debug\Trivia.xml
+C:\Users\andre\Documents\Programacion II\proyecto1\juegoTrivia\obj\Debug\juegoTrivia.vbprojAssemblyReference.cache
+C:\Users\andre\Documents\Programacion II\proyecto1\juegoTrivia\obj\Debug\juegoTrivia.frmAcercaDe.resources
+C:\Users\andre\Documents\Programacion II\proyecto1\juegoTrivia\obj\Debug\juegoTrivia.frmControl.resources
+C:\Users\andre\Documents\Programacion II\proyecto1\juegoTrivia\obj\Debug\juegoTrivia.frmInstrucciones.resources
+C:\Users\andre\Documents\Programacion II\proyecto1\juegoTrivia\obj\Debug\juegoTrivia.frmMenuPrincipal.resources
+C:\Users\andre\Documents\Programacion II\proyecto1\juegoTrivia\obj\Debug\juegoTrivia.frmJuego.resources
+C:\Users\andre\Documents\Programacion II\proyecto1\juegoTrivia\obj\Debug\juegoTrivia.frmpregJ2.resources
+C:\Users\andre\Documents\Programacion II\proyecto1\juegoTrivia\obj\Debug\juegoTrivia.frmPregunta.resources
+C:\Users\andre\Documents\Programacion II\proyecto1\juegoTrivia\obj\Debug\juegoTrivia.Resources.resources
+C:\Users\andre\Documents\Programacion II\proyecto1\juegoTrivia\obj\Debug\juegoTrivia.vbproj.GenerateResource.cache
+C:\Users\andre\Documents\Programacion II\proyecto1\juegoTrivia\obj\Debug\juegoTrivia.vbproj.CopyComplete
+C:\Users\andre\Documents\Programacion II\proyecto1\juegoTrivia\obj\Debug\juegoTrivia.exe
+C:\Users\andre\Documents\Programacion II\proyecto1\juegoTrivia\obj\Debug\juegoTrivia.xml
+C:\Users\andre\Documents\Programacion II\proyecto1\juegoTrivia\obj\Debug\juegoTrivia.pdb
+C:\Users\andre\Documents\Archivos de llave maya\documentos\Programacion II\proyecto1\juegoTrivia\bin\Debug\juegoTrivia.exe.config
+C:\Users\andre\Documents\Archivos de llave maya\documentos\Programacion II\proyecto1\juegoTrivia\bin\Debug\juegoTrivia.exe
+C:\Users\andre\Documents\Archivos de llave maya\documentos\Programacion II\proyecto1\juegoTrivia\bin\Debug\juegoTrivia.pdb
+C:\Users\andre\Documents\Archivos de llave maya\documentos\Programacion II\proyecto1\juegoTrivia\bin\Debug\juegoTrivia.xml
+C:\Users\andre\Documents\Archivos de llave maya\documentos\Programacion II\proyecto1\juegoTrivia\bin\Debug\Trivia.dll
+C:\Users\andre\Documents\Archivos de llave maya\documentos\Programacion II\proyecto1\juegoTrivia\bin\Debug\Trivia.pdb
+C:\Users\andre\Documents\Archivos de llave maya\documentos\Programacion II\proyecto1\juegoTrivia\bin\Debug\Trivia.xml
+C:\Users\andre\Documents\Archivos de llave maya\documentos\Programacion II\proyecto1\juegoTrivia\obj\Debug\juegoTrivia.vbprojAssemblyReference.cache
+C:\Users\andre\Documents\Archivos de llave maya\documentos\Programacion II\proyecto1\juegoTrivia\obj\Debug\juegoTrivia.frmAcercaDe.resources
+C:\Users\andre\Documents\Archivos de llave maya\documentos\Programacion II\proyecto1\juegoTrivia\obj\Debug\juegoTrivia.frmControl.resources
+C:\Users\andre\Documents\Archivos de llave maya\documentos\Programacion II\proyecto1\juegoTrivia\obj\Debug\juegoTrivia.frmInstrucciones.resources
+C:\Users\andre\Documents\Archivos de llave maya\documentos\Programacion II\proyecto1\juegoTrivia\obj\Debug\juegoTrivia.frmMenuPrincipal.resources
+C:\Users\andre\Documents\Archivos de llave maya\documentos\Programacion II\proyecto1\juegoTrivia\obj\Debug\juegoTrivia.frmJuego.resources
+C:\Users\andre\Documents\Archivos de llave maya\documentos\Programacion II\proyecto1\juegoTrivia\obj\Debug\juegoTrivia.frmpregJ2.resources
+C:\Users\andre\Documents\Archivos de llave maya\documentos\Programacion II\proyecto1\juegoTrivia\obj\Debug\juegoTrivia.frmPregunta.resources
+C:\Users\andre\Documents\Archivos de llave maya\documentos\Programacion II\proyecto1\juegoTrivia\obj\Debug\juegoTrivia.Resources.resources
+C:\Users\andre\Documents\Archivos de llave maya\documentos\Programacion II\proyecto1\juegoTrivia\obj\Debug\juegoTrivia.vbproj.GenerateResource.cache
+C:\Users\andre\Documents\Archivos de llave maya\documentos\Programacion II\proyecto1\juegoTrivia\obj\Debug\juegoTrivia.vbproj.CoreCompileInputs.cache
+C:\Users\andre\Documents\Archivos de llave maya\documentos\Programacion II\proyecto1\juegoTrivia\obj\Debug\juegoTrivia.vbproj.CopyComplete
+C:\Users\andre\Documents\Archivos de llave maya\documentos\Programacion II\proyecto1\juegoTrivia\obj\Debug\juegoTrivia.exe
+C:\Users\andre\Documents\Archivos de llave maya\documentos\Programacion II\proyecto1\juegoTrivia\obj\Debug\juegoTrivia.xml
+C:\Users\andre\Documents\Archivos de llave maya\documentos\Programacion II\proyecto1\juegoTrivia\obj\Debug\juegoTrivia.pdb

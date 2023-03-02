@@ -1,0 +1,25 @@
+¿Cuál de las siguientes opciones NO es una planta?,Dionaea Muscipula,Pinidae,Hydrozoa,Rosáceas,
+En los juegos Olímpicos¿Cuántas medallas ha ganado Costa Rica?,4,3,2,Ninguna,
+¿En qué país se celebraron los juegos olímpicos de 1936?,México,Alemania,Japón,Turquía,
+¿cual es la formula de patrimonio?,p=activos-pasivos,p=activos*pasivos,pa=activos+patrimonio,a=activos/capital,19,p=activos-pasivos
+¿como se llama la istitucion que vela por los contadores?,colegio de contadores publicos de cr,colegio de entidades sociales,colegio financiero economista,imas,20,colegio de contadores publicos de cr
+¿Eliminación de las libertades y Prohibición de partidos políticos y sindicatos de que Regimen es?,Islamico,Totalitario,Politico,Ninguno,21,Totalitario
+¿Cuantos tipos de regimen Islamico?,3,5,8,1,22,3
+¿Cuál de los siguientes síntomas se debe a la gripe porcina?,Hipertensión,Ceguera,Picazón en la piel,Naúseas,
+¿Qué es daño hepático?,Daño en el Hígado,Daño en los riñones,Daño en el estómago,Daño en el intestino delgado,
+¿En que año nace Google?,1995,1996,1997,1998,1,1997
+¿Quien fue el primer programador?,Bill Gates,Augusta Ada Byron,Steve Jobs,Byron Pierris,3,Augusta Ada Byron
+¿Que planeta del sistema solar es el mas caliente?,marte,jupiter,saturno,venus,3,venus
+¿Que planeta del sistema solar es el mas pequeño?,marte,mercurio,jupiter,saturno,3,mercurio
+¿Cuantas capas tiene la atmosfera?,4,5,3,6,3,4
+¿Cuantos miligramos hay en un kilogramo?,1000,100,1000000,100000000,3,1000000
+¿Creador del WC de descarga?,Joseph Wilson Swan,Aleksandr Lodygin,Peter Cooper,John Harrington,
+¿Cuál es el continente más grande del mundo?,Asia,América,Oceanía,África,
+El deportista con más medallas olímpicas es:,Paavo Nurmi,Mark Spitz,Michael Phelps,Carl Lewis,
+ESPN escoge al mejor jugador de la historia de Baloncesto; el cual fue:,Michael Jordan,Kobe Bryant,Lebron James,Wilton Norman,
+¿ciencia empirica que nos permite conocer la realidad economica?,tasa salarial,economia,cuentas,contabilidad,21,contabilidad
+¿es uno de los bienes, derechos y obligaciones que forman el patrimonio de la empresa?,capital,elemento patrimonial,activos,cuentas,22,elemento patrimonial
+La canción Sobreviviré es de:,Justin Bieber,Mónica Naranjo,Maikol Navarro,Thalía,
+Continua la canción: Pequeño Pony,Pequeño Pony; a tu lado siempre estaré,Es mejor mirar siempre de frente aunque te hundas,Confiamos en ti,Los sueños siempre debes perseguir,
+¿Con qué nombre se conoció a la Primera Guerra Mundial en su época?,La Guerra de Guerras,El Fin del Mundo,La Gran Guerra,La Última Guerra,2,La Guerra de Guerras,
+En el Antiguo Egipto, ¿Qué Dios representaba al Sol?,Osiris,Seti,Horus,Ra,2,Ra,

@@ -1,0 +1,25 @@
+¿cual es uno de los activos?,corrientes,pasivos,capitales,no comerciales,11,corrientes 
+¿pagar es lo mismo que cobrar?,es el mismo concepto,es diferente concepto,son activos,son pasivos,12,es diferente concepto
+¿Qué rey inglés fue famoso por decapitar a sus esposas?,Enrique X,Enrique VIII,Luis XV,ninguna,11,Enrique VIII
+¿Quién fue el primer presidente afroamericano electo en los Estados Unidos?,Jhon f.Kennedy,Barack Obama,Donald Trump,todos,12,Barack Obama
+¿Cuánto suele durar una gripe?,11-15 días,5-10 días,12-14 días,1-2 días,
+¿Qué es la clamidia?,Es una medicina,Es una comida,Es una bebida,Es una enfermedad,
+¿En que año se creo Youtube?,2003,2007,2005,2009,1,2005
+¿Como se llama la mascota de Twitter?,blue bird,larry,killah,bourdon,3,larry
+¿Cual es la galaxia mas cercana a la nuestra?,via lactea,renacuajo,andromeda,torbellino,3,andromeda
+¿Que tipo de estrella es nuestro sol?,estrella grande, estrella ardiente,estrella enana, estrella centrica,3,estrella enana
+¿De que sustncia estan hechas las uñas?,calcio,proton,melanina,queratina,3,queratina
+¿Quien invento la tabla periodica?,Albert Einstein,Galileo Galilei,Stephen Hawking,Dimitri,3,Dimitri
+¿Cuánto duró la segunda guerra mundial?,2 años,Menos de un año,3 años,6 años,
+¿En qué año terminó la primera guerra mundial?,1914,1918,1919,1920,
+¿Con qué propósito los culturistas se inyectan esteroides?,Mayor ganancia muscular,Mejor rendimiento en el gym,Mejor definición en los músculos,Todos los anteriores,
+¿En dónde se celebró los juegos olímpicos del 2004?,Rusia,Estados Unidos,China,Grecia,
+¿un pago por anticipado es?,un pasivo mas, un activo menos,un gasto,una renta bruta,13, un gasto
+¿un activo se puede convertir en gasto cuando?,se acredita,se valoriza, se dezvaloriza, se desprecia,14,se acredita
+¿A qué terrorista se atribuyen la organización de los atentados de Estados Unidos el 11 de septiembre de 1999?,Gandhi,Osama Bin Laden,Adolfo Hitler,Todos,13,Osama bin Laden
+¿Quien fue la primera mujer presidente de la republica en CR?,Carlos Alvarado,Laura Chinchilla,Jhonny Araya,Rafael Mora Porras,14,Laura chinchilla
+¿Actividad de los que gobiernan o aspiran a gobernar los asuntos que afectan a la sociedad o a un país?,Derecho,Politica,Federacion,TSE,15,Derecho
+¿Cual fue le dinisaurio mas grande?,Diplodocus,Triceratops,Patagotitan,Brachiosaurus,3,Patagotitan
+¿Cuál es el nombre de la homínido más antigua en el mundo?,Camren,Eva,Lucy,Marriot,3,Lucy
+¿Cuál de estas no es una opera de Verdi?, La Traviata, Aida,Tosca, Rigoletto, 2, Tosca
+¿En que ciudad se originó el Jazz?, Nueva Orleans, Nueva York, París, Memphis, 1,Nueva Orleans
